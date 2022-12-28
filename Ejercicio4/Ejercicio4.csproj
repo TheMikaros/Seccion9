@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EF134612-F9CF-40FF-9077-0BEFB946A6BE}</ProjectGuid>
+    <ProjectGuid>{322EF67E-F797-40C9-A263-248E4A802FDC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio3</RootNamespace>
-    <AssemblyName>Ejercicio3</AssemblyName>
+    <RootNamespace>Ejercicio4</RootNamespace>
+    <AssemblyName>Ejercicio4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="vehiculo.cs" />
+    <Compile Include="Vehiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
